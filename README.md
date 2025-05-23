@@ -28,7 +28,7 @@ Classify news headlines into categories like Business, Sports, Sci/Tech, and Wor
 
 - Built and deployed a Streamlit-based web app using LSTM with BERT embeddings
 - Complete end-to-end pipeline: data preprocessing, model training, and UI for live predictions
-- [Model Training & Backend Code](https://github.com/junaidasif-dev/NewsClassifier/tree/main)
+- [Model Training & Backend Code](https://github.com/junaidasif-dev/News-Classifier/tree/main)
 
 ---
 
